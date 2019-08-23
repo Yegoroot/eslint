@@ -28,7 +28,7 @@ yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 
 ## Step 3
 
-```json
+```js
 {
   // other settings
   // formatting using eslint
